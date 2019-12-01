@@ -47,6 +47,10 @@ span {
   height: 55px;
 }
 
+.btn-ghost:active span {
+  transform: translateY(8px);
+}
+
 .btn-ghost:active {
   height: 68px;
 }
@@ -55,4 +59,8 @@ span {
   position: absolute;
   top: 500px;
   left: 400px;
+}
+
+.btn-ghost:hover .rocket, .btn-ghost:focus .rocket {
+  transform: translate(8px, -8px);
 }
