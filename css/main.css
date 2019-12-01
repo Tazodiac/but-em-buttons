@@ -12,12 +12,12 @@ section {
 
 h1, p {
   color: #fff;
-  text-shadow 0 0 8px rgba(255, 255, 255, .7);
+  text-shadow: 0 0 8px rgba(255, 255, 255, .7);
 }
 
 .btn-ghost {
-  border-color: #b4ff4;
-  color: #b4ff4;
+  border-color: #b4fff4;
+  color: #b4fff4;
   border-radius: 8px;
   position: relative;
   transition: all 200ms linear;
@@ -39,7 +39,7 @@ h1, p {
 }
 
 span {
-  border-bottom: 3px solid #90ccc3:
+  border-bottom: 3px solid #90ccc3;
   width: 100%;
   position: absolute;
   top: 0;
