@@ -37,3 +37,22 @@ h1, p {
   border-color: #b4fff4;
   color: #b4fff4;
 }
+
+span {
+  border-bottom: 3px solid #90ccc3:
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 55px;
+}
+
+.btn-ghost:active {
+  height: 68px;
+}
+
+.btn:active {
+  position: absolute;
+  top: 500px;
+  left: 400px;
+}
